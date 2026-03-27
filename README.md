@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👩‍💻 Welcome to my GitHub!
 
-<!--
-**karunaAnalytics/karunaAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Karuna Jagtap
 
-Here are some ideas to get you started:
+💡 Data Science Student | Python | SQL | Excel | Power BI | Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+🎓 Computer Science Student
+💻 Interested in Data Science and Machine Learning
+🌱 Currently learning and building real-world projects
+📊 Passionate about solving problems using data
+
+---
+
+## 🔧 Skills
+
+* Python
+* SQL
+* Excel
+* Power BI
+* Machine Learning
+* Pandas
+* Scikit-learn
+
+---
+
+## 📌 Projects
+
+### 🌾 Crop Yield Prediction
+
+* Built a machine learning model to predict crop yield
+* Developed a Streamlit web app for real-time predictions
+* Used Random Forest algorithm for better accuracy
+
+🔗 Project Link:
+https://github.com/karunajagtap/Crop-Yield-Prediction
+
+---
+
+## 📫 Connect with me
+
+* LinkedIn: (add your link here later)
